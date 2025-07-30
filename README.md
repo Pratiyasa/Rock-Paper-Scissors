@@ -12,7 +12,7 @@ A fun and interactive **Rock Paper Scissors** game built with **HTML**, **CSS**,
 
 ## 🚀 Live Demo
 
-[🔗 Play Live]()  
+[🔗 Play Live](https://github.com/Pratiyasa/Rock-Paper-Scissors.git)  
 
 
 ## 🛠️ Tech Stack
@@ -43,4 +43,4 @@ Rock-Paper-Scissors/
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Pratiyasa/Rock-Paper-Scissors.git
